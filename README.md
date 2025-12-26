@@ -7,4 +7,12 @@ The nature of consciousness remains one of the most profound unsolved problems i
 
 EBESM is proposed as a third path. It treats consciousness as an emergent informational phenomenon grounded in physical substrates but not reducible to any single material configuration. In this view, the brain functions as a dynamic information processor, instantiating complex, recursively integrated informational structures. Consciousness arises when informational integration, differentiation, and self-referential feedback exceed a critical threshold.
 
-Crucially, EBESM extends this framework to address the controversial
+Crucially, EBESM extends this framework to address the controversial question of whether any form of continuity is theoretically possible after biological death. Rather than invoking supernatural claims, EBESM explores whether informational patterns associated with conscious identity could, in principle, persist, transform, or be conserved under broader informational dynamics.
+
+2. Related Work
+Several existing theories intersect with aspects of EBESM:
+
+Integrated Information Theory (IIT) posits that consciousness corresponds to the degree of integrated information (Φ) within a system. EBESM adopts the importance of integration but rejects substrate-specific assumptions.
+Global Workspace Theory (GWT) emphasizes large-scale information broadcasting in the brain, aligning with EBESM’s emphasis on dynamic informational coordination.
+Computational Functionalism treats mental states as computational states, but often neglects thermodynamic and informational constraints.
+Information-Theoretic Physics (e.g., Landauer’s principle) establishes that information is physical, providing EBESM with a lawful foundation
